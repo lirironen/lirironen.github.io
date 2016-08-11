@@ -1,6 +1,6 @@
 body {
     background-color: #33ccff;
-    color: #D7CEC7;
+    color: black;
     font-size: 150%;
     line-height: 1.4;
 }
@@ -13,7 +13,7 @@ h1{
 
 h3{
     margin:0px;
-    color: #CED7A7;
+    color: #ff5050;
 }
 
 h2{
